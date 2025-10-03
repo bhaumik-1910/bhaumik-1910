@@ -12,9 +12,9 @@ My journey in the world of coding began with curiosity and has since evolved int
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaumik-kothiya-28396235a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_bhaumik_patel_01?igsh=MnZ3a25ibnJudnVl)  
-[![X](https://img.shields.io/badge/Twitter-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/Bhaumik1910?t=oDo98NZiJWpqoa8APkHidw&s=09)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaumik-kothiya-28396235a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_bhaumik_patel_01?igsh=MnZ3a25ibnJudnVl) &nbsp;
+[![X](https://img.shields.io/badge/Twitter-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/Bhaumik1910?t=oDo98NZiJWpqoa8APkHidw&s=09)
 
 
 ---
