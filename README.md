@@ -1,5 +1,3 @@
-# Overview-
-
 # 👋 About Me
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&width=435&lines=Hi+there+👋;I'm+a+Web+Developer;I+love+Next.js+%26+React)
