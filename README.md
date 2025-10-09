@@ -49,13 +49,6 @@ My journey in the world of coding began with curiosity and has since evolved int
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ## 🐍 Contribution Animation
 
 ![GitHub Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
