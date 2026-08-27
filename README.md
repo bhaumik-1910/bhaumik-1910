@@ -6,7 +6,7 @@ Hello there, I'm **Kothiya Bhaumik** 👨‍💻
 A passionate Web Developer currently pursuing my **Master of Science in Information Technology**.  
 My journey in the world of coding began with curiosity and has since evolved into a love for creating innovative web solutions.
 
-📧 **E-mail**: [bhaumikkothiya@gmail.com](mailto: bhaumikkothiya1@gmail.com)
+📧 **E-mail**: [bhaumikkothiya@gmail.com]
 
 ---
 
